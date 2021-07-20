@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">assignment_3</string>
+    <string name="team_38_tetris">Team 38 Tetris</string>
+    <string name="quit">Quit</string>
+</resources>
